@@ -1,0 +1,32 @@
+body{
+background-color: blanchedalmond;
+
+}
+h1 {text-align: center;
+    color:;
+background-color: aquamarine;
+border-left: 10px solid rgb(0, 115, 255);
+}
+h2 {
+    background: rgb(191, 188, 188);
+    text-align:center ;
+    border-bottom: 10px solid rgba(0, 0, 0, 0.63);
+    width: 25%;
+}
+p {
+    background: rgb(191, 188, 188);
+    width: 25%;
+}
+
+#figura {
+    display: flex;
+    align-items: center;
+width: 25%;
+height: 50%;
+
+}
+#silaba {
+    height: 50%;
+    width: 25%;
+}
+
